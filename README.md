@@ -1,6 +1,6 @@
 # Adaptive Distance Alert System (Arduino)
 
-![Video Demo](https://github.com/user-attachments/assets/df98ee63-cd22-4b24-9f11-cba14de96496)
+<video src="https://github.com/user-attachments/assets/df98ee63-cd22-4b24-9f11-cba14de96496" width="100%" controls></video>
 ![Tampilan Serial Monitor](ARDINO-DISTANCE-ALERT/Screenshot%20from%202025-12-23%2018-25-53.png)
 
 Sistem peringatan jarak pintar menggunakan sensor ultrasonik HC-SR04. Proyek ini mengimplementasikan logika responsif di mana frekuensi peringatan visual (LED) berubah secara dinamis berdasarkan tingkat kedekatan objek.
